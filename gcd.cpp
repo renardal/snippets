@@ -1,6 +1,10 @@
+/*
+Return sum of 2 numbers a & b with greatest gcd
+a from vector A and b from vector B
+*/
+
 bool mA[1000005] = {0};
 bool mB[1000005] = {0};
-
 
 int maximumGcdAndSum(vector <int> A, vector <int> B) {
     // Complete this function
