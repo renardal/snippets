@@ -1,4 +1,5 @@
 /*
+Week of code 34
 Lucky number: look for the next number such that sum of first 3 digits = sum of last 3 digits
 */
 bool lucky(int y){
