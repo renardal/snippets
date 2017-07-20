@@ -1,9 +1,9 @@
-#include <bits/stdc++.h>
-
 /*
 Week of code 34
 Count number of subarrays with equal count of both numbers from query
 */
+
+#include <bits/stdc++.h>
 
 using namespace std;
 
