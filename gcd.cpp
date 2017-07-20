@@ -1,4 +1,6 @@
 /*
+Week of code 34
+
 Return sum of 2 numbers a & b with greatest gcd
 a from vector A and b from vector B
 */
